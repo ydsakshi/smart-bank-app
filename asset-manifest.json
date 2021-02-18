@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smart-bank-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/smart-bank-app/static/js/main.3b74c7a4.chunk.js",
+    "main.js.map": "/smart-bank-app/static/js/main.3b74c7a4.chunk.js.map",
+    "runtime-main.js": "/smart-bank-app/static/js/runtime-main.f03aba4a.js",
+    "runtime-main.js.map": "/smart-bank-app/static/js/runtime-main.f03aba4a.js.map",
+    "static/js/2.e4addd31.chunk.js": "/smart-bank-app/static/js/2.e4addd31.chunk.js",
+    "static/js/2.e4addd31.chunk.js.map": "/smart-bank-app/static/js/2.e4addd31.chunk.js.map",
+    "static/js/3.756fa633.chunk.js": "/smart-bank-app/static/js/3.756fa633.chunk.js",
+    "static/js/3.756fa633.chunk.js.map": "/smart-bank-app/static/js/3.756fa633.chunk.js.map",
+    "index.html": "/smart-bank-app/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/smart-bank-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e4addd31.chunk.js.LICENSE.txt": "/smart-bank-app/static/js/2.e4addd31.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/smart-bank-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f03aba4a.js",
+    "static/js/2.e4addd31.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3b74c7a4.chunk.js"
+  ]
+}
